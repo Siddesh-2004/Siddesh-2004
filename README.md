@@ -10,11 +10,25 @@
 
 ---
 
-### ⌨️ What I Work With
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express  
-- **Databases:** MySQL, MongoDB  
-- **Testing & Tools:** Postman, Git, GitHub  
+### ⌨️ Tech Stack
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
+  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</p>
 
 ---
 
@@ -24,14 +38,18 @@ Check out my **pinned repositories** below 👇
 ---
 
 ### ⚡ Typing Animation
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&lines=Full+Stack+Developer;Learning+Next.js+and+Node.js;Exploring+Generative+AI;Always+Learning+New+Things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&lines=Full+Stack+Developer;Learning+Next.js+and+Node.js;Exploring+Generative+AI;Always+Learning+New+Things" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddesh-2004&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh-2004&theme=tokyonight" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddesh-2004&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh-2004&theme=tokyonight&count_private=true" alt="streak" height="180"/>
 </p>
 
 <p align="center">
@@ -41,4 +59,3 @@ Check out my **pinned repositories** below 👇
 ---
 
 ⭐️ *“The most valuable problems to tackle are the ones we’ve experienced firsthand.”*  
-
