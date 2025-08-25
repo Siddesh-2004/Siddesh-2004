@@ -30,7 +30,7 @@ Check out my **pinned repositories** below 👇
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddesh&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddesh-2004&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
