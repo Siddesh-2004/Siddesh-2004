@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Siddesh</h1>
-<h3 align="center">A passionate developer exploring Full Stack Development & Generative AI</h3>
+# Hi 👋, I'm Siddesh
+### A passionate developer exploring Full Stack Development & Generative AI
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🌱 Currently learning **Next.js, Node.js, and GenAI**  
 - 💡 Interested in building impactful projects and solving real-world problems  
 - 📫 Reach me at **siddeshpoojary2004@gmail.com**
 
 ---
 
-### ⌨️ Tech Stack
+## ⌨️ Tech Stack
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
@@ -35,30 +35,64 @@
 
 ---
 
-### 🚀 Featured Repositories
-Check out my **pinned repositories** below 👇
+## 📌 Featured Repositories
+
+<a href="https://github.com/Siddesh-2004/Mushroom-Ecommerce-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-2004&repo=Mushroom-Ecommerce-Website&theme=tokyonight" alt="Mushroom Ecommerce Website" />
+</a>
+<a href="https://github.com/Siddesh-2004/Backend-Template-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-2004&repo=Backend-Template-Generator&theme=tokyonight" alt="Backend Template Generator" />
+</a>
+
+### 🚀 Check out my repositories → [View All Projects](https://github.com/Siddesh-2004?tab=repositories)
 
 ---
 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&lines=Full+Stack+Developer;Expertise+in+backend;Learning+Next.js+and+Node.js;Exploring+Generative+AI;Always+Learning+New+Things" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&lines=Full+Stack+Developer;Expertise+in+Backend;Learning+Next.js+and+Node.js;Exploring+Generative+AI;Always+Learning+New+Things" alt="Typing Animation" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddesh-2004&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh-2004&theme=tokyonight&count_private=true" alt="streak" height="180"/>
+  <!-- Clean GitHub stats with commits only -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Siddesh-2004&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,prs" alt="GitHub Stats" height="180"/> -->
+  <!-- GitHub streak stats (multiple fallback URLs) -->
+<!--   <img src="https://streak-stats.demolab.com/?user=Siddesh-2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/> -->
+</p>
+<p align="center">
+  <!-- Top languages -->
+
+<!-- Alternative streak URLs if above doesn't work -->
+<!-- Try these one by one if the streak image doesn't load:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh-2004&theme=tokyonight" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Siddesh-2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+-->
+  <!-- Top languages -->
+
+<!-- Alternative streak URLs if above doesn't work -->
+<!-- Try these one by one if the streak image doesn't load:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddesh-2004&theme=tokyonight" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Siddesh-2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+-->
+  
+  <!-- GitHub streak stats (multiple fallback URLs) -->
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddesh-2004&layout=compact&theme=tokyonight" alt="top langs" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddesh-2004&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
+
+<!-- Alternative streak URLs if above doesn't work -->
+
 
 ---
 
-⭐️ *“The most valuable problems to tackle are the ones we’ve experienced firsthand.”*  
+⭐️ *"The most valuable problems to tackle are the ones we've experienced firsthand."*
