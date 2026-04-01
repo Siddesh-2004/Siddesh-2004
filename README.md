@@ -41,7 +41,7 @@
 <a href="https://github.com/Siddesh-2004/Mushroom-Ecommerce-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-2004&repo=Mushroom-Ecommerce-Website&theme=tokyonight" alt="Mushroom Ecommerce Website" />
 </a>
-<a href="https://github.com/Siddesh-2004/EdegeX">
+<a href="https://github.com/Siddesh-2004/EdgeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-2004&repo=Backend-Template-Generator&theme=tokyonight" alt="Backend Template Generator" />
 </a>
 
